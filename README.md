@@ -1,2 +1,3 @@
-# swar-health
-Voice-First AI Platform for Patient Engagement in Regional Languages
+# Swar Health
+
+Swar Health is a comprehensive health management application.
